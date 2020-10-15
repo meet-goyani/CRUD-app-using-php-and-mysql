@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #212529;
+  text-align: left;
+  background-color: #97b8cf;
+}
+.card {
+  margin-top: 15%;
+  margin-bottom: auto;
+  border-radius: 10px;
+}
